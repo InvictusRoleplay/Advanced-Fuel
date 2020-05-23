@@ -11,6 +11,7 @@ Exports
 There are currently two (client-sided) exports available, which should help you control the fuel level for vehicles whenever needed.
 
 
-`SetFuel(vehicle --[[ Vehicle ]], value --[[ Number: (0-100) ]])
-GetFuel(vehicle --[[ Vehicle ]]) -- Returns the vehicle's fuel level.`
+`SetFuel(vehicle --[[ Vehicle ]], value --[[ Number: (0-100) ]])`
+
+`GetFuel(vehicle --[[ Vehicle ]]) -- Returns the vehicle's fuel level.`
 
